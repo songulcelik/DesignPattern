@@ -1,0 +1,5 @@
+Factory Disagn Pattern:
+nesne olusturma surecini soyutlastirarak istemci kodunu nesnelerin somut(domain) siniflarina bagimli olmaktan kurtarmaktir
+ornegin sessionfactory. bir classtan objenin hazir olarak olusmusunu kullaniriz bunun icin factory disagn pattern. nesnenin olusumundan
+ facory sorumlu oluyor.
+
