@@ -1,0 +1,4 @@
+get ve load methodlari. load golge(proxy) obje getiriyordu
+objenin kendsine ihtiyacimiz olana kadar golgeyi kullaniyor
+sisteme gore dbye ulasmayi geciktirmek vs gibi gerekcelerle kullanilabilir.
+mesela para tasimak yerine bankomat  karti gibi.
